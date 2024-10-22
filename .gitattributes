@@ -1,0 +1,6 @@
+*.s linguist-language=Assembly
+*.asm linguist-language=Assembly
+
+*.s64 linguist-language=Assembly
+*.s32 linguist-language=Assembly
+*.s8 linguist-language=Assembly
